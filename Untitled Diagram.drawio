@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T18:16:50.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="mXk4JkIhndiDKaGJVG0F" version="14.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-09T18:49:06.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="9Nr51zkeU50NvdWOvoOo" version="14.3.0" type="github" pages="2">
   <diagram id="zmgC2hMmw6vXnt68TBfg" name="Page-1">
     <mxGraphModel dx="2076" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -493,7 +493,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DDbtJH6xZMfhXgVmU0nl" name="Page-2">
-    <mxGraphModel dx="2595" dy="1463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4152" dy="2340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qbb-ZSPnhFNRF_dBAjSB-0" />
         <mxCell id="qbb-ZSPnhFNRF_dBAjSB-1" parent="qbb-ZSPnhFNRF_dBAjSB-0" />
@@ -673,11 +673,19 @@
         <mxCell id="qbb-ZSPnhFNRF_dBAjSB-39" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="qbb-ZSPnhFNRF_dBAjSB-36" target="qbb-ZSPnhFNRF_dBAjSB-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="590" y="770" />
               <mxPoint x="590" y="630" />
               <mxPoint x="610" y="640" />
               <mxPoint x="630" y="735" />
               <mxPoint x="640" y="705" />
               <mxPoint x="450" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-9" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="qbb-ZSPnhFNRF_dBAjSB-36" target="XOTU3VeHHJmu79t8mAcy-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="588" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -705,7 +713,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qbb-ZSPnhFNRF_dBAjSB-38" value="Del mundo clásico al siglo XVIII" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+        <mxCell id="qbb-ZSPnhFNRF_dBAjSB-38" value="Del mundo clásico al siglo XVIII" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
           <mxGeometry x="610" y="585" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qbb-ZSPnhFNRF_dBAjSB-44" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="qbb-ZSPnhFNRF_dBAjSB-41" target="qbb-ZSPnhFNRF_dBAjSB-43">
@@ -782,6 +790,13 @@
         <mxCell id="qbb-ZSPnhFNRF_dBAjSB-72" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="qbb-ZSPnhFNRF_dBAjSB-68" target="qbb-ZSPnhFNRF_dBAjSB-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-1" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="qbb-ZSPnhFNRF_dBAjSB-68" target="XOTU3VeHHJmu79t8mAcy-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="1070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qbb-ZSPnhFNRF_dBAjSB-68" value="Siglo XVII" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
           <mxGeometry x="680" y="1030" width="163" height="30" as="geometry" />
         </mxCell>
@@ -805,6 +820,140 @@
         </mxCell>
         <mxCell id="qbb-ZSPnhFNRF_dBAjSB-77" value="También interés en distinguir la geografía general, física y astronómica, y geografía regional (descripción de espacios determinados)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
           <mxGeometry x="1290" y="1010" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-3" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-0" target="XOTU3VeHHJmu79t8mAcy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-0" value="Siglo XVIII" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="680" y="1100" width="163" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-5" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-2" target="XOTU3VeHHJmu79t8mAcy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-2" target="XOTU3VeHHJmu79t8mAcy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-2" value="Especialización en las ciencias de la Tierra" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="870" y="1100" width="163" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-4" value="Geología, Botánica, Física, Química y Cartografía asumen temas de la Geografïa" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="1077" y="1080" width="203" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-6" value="Geografía queda fuera de las disciplinas &#39;matemáticas&#39; y es de carácter enciclopédico y descriptivo" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="1077" y="1139" width="203" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-8" target="XOTU3VeHHJmu79t8mAcy-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-8" value="Siglo XIX" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="618.5" y="1190" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-13" value="contribuyeron" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-10" target="XOTU3VeHHJmu79t8mAcy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-21" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-10" target="XOTU3VeHHJmu79t8mAcy-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-10" value="Expansión europea, desarrollo técnico y científico, curiosidad por lugares exóticos (Romanticismo)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="647" y="1250" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-15" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-12" target="XOTU3VeHHJmu79t8mAcy-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="1240" />
+              <mxPoint x="1110" y="1250" />
+              <mxPoint x="1110" y="1290" />
+              <mxPoint x="1110" y="1270" />
+              <mxPoint x="950" y="1310" />
+              <mxPoint x="940" y="1305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-17" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-12" target="XOTU3VeHHJmu79t8mAcy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-19" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-12" target="XOTU3VeHHJmu79t8mAcy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-12" value="Papel desctacado de la Geografía&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="920" y="1270" width="168" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-14" value="Disciplina en la Universidad" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="1122" y="1220" width="168" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-16" value="inclusión en la escuela primaria y secundaria" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="1122" y="1270" width="168" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-18" value="creación de instituciones públicas y privadas relacionadas con la Geografía" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="1122" y="1320" width="168" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-23" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-20" target="XOTU3VeHHJmu79t8mAcy-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-20" target="XOTU3VeHHJmu79t8mAcy-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-20" value="Cultura alemana de la primera mitad del XIX aporta dos figuras importantes desarrollo Geografía" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="647" y="1470" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-27" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-22" target="XOTU3VeHHJmu79t8mAcy-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-29" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-22" target="XOTU3VeHHJmu79t8mAcy-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-33" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-22" target="XOTU3VeHHJmu79t8mAcy-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-22" value="Humboldt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="860" y="1445" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-24" target="XOTU3VeHHJmu79t8mAcy-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-39" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-24" target="XOTU3VeHHJmu79t8mAcy-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-41" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-24" target="XOTU3VeHHJmu79t8mAcy-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-24" value="Ritter" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="860" y="1670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-26" value="Busca una visión global de la Tierra (que es un todo orgánico y no la yuxtaposición de fenómenos inconexos)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="971.5" y="1400" width="238.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-31" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qbb-ZSPnhFNRF_dBAjSB-1" source="XOTU3VeHHJmu79t8mAcy-28" target="XOTU3VeHHJmu79t8mAcy-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-28" value="Método empírico e inductivo" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="973" y="1500" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-30" value="Acopiaba datos rigurosamente medidos, los localizaba y comparaba" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="1146" y="1490" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-32" value="Obra: &#39;El Cosmos. Ensayo de una descripción física del mundo&#39;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="971.5" y="1560" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-36" value="Objetivo: Estudiar las relaciones entre la superficie terrestre y la actividad humana" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="981.5" y="1640" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-40" value="Preocupa por la interrelaciones, pero se centra en el hombre y la historia" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="981.5" y="1710" width="178.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=west;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="1350" y="1400" width="20" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="XOTU3VeHHJmu79t8mAcy-43" value="Estos autores están dentro de la &#39;Geografía clásica&#39; + padres de la moderna geografía&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="qbb-ZSPnhFNRF_dBAjSB-1">
+          <mxGeometry x="1380" y="1542.5" width="180" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
